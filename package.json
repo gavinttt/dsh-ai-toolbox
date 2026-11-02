@@ -1,6 +1,6 @@
 {
   "name": "dsh-ai-toolbox",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "本地AI工具箱 for DSH: scan project folders, start and stop tools, open their web UI or app, read READMEs, and pin favorites.",
   "type": "module",
   "main": "lib/index.js",
