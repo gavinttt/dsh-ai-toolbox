@@ -1,0 +1,14 @@
+# dsh-ai-toolbox bundle layer.
+#
+# One row carries both halves:
+#   - the Host face (lib/index.js) serves /ai-toolbox routes and manages processes;
+#   - the browser face (lib/client.js) registers the "本地AI工具箱" sidebar panel.
+#
+# Seed folders can be supplied here, for example:
+#   config:
+#     directories:
+#       - /Users/me/Documents/deepseek-harness
+# When omitted, the first run picks existing conventional folders.
+- insert:
+    - id: ai-toolbox
+      name: dsh-ai-toolbox

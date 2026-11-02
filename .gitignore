@@ -1,0 +1,7 @@
+node_modules/
+.npm-cache/
+.DS_Store
+test/.data/
+test/.added-project/
+test/.echo-tool.sh
+test/.Fake.app/

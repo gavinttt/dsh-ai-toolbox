@@ -1,0 +1,6 @@
+{
+  "name": "fixture-node-server",
+  "version": "1.0.0",
+  "description": "A fixture web tool used by the plugin self-test.",
+  "main": "server.js"
+}
