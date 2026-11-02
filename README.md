@@ -4,6 +4,8 @@
 
 它是一个 DSH bundle（不是某个具体工具、也不是 skill），安装一次后出现在 DSH 侧栏的「本地AI工具箱」入口。
 
+仓库：[github.com/gavinttt/dsh-ai-toolbox](https://github.com/gavinttt/dsh-ai-toolbox)
+
 ![本地AI工具箱界面：工具卡片、分类筛选、收藏和启动/打开操作](docs/screenshot.png)
 
 ## 能做什么
@@ -21,7 +23,7 @@
 
 ## 安装
 
-从 npm 安装（发布后）：
+从 npm 安装：
 
 ```bash
 dsh plugin --profile desktop add dsh-ai-toolbox
@@ -39,7 +41,7 @@ dsh plugin --profile desktop add /absolute/path/to/dsh-ai-toolbox
 
 ## 发布到 npm
 
-当前包名 `dsh-ai-toolbox` 在 npm 上可用；如果要放到自己的 scope 下，把下面所有 `dsh-ai-toolbox` 换成 `@your-scope/dsh-ai-toolbox`。
+已发布到 npm：`dsh-ai-toolbox@0.1.0`。如果要放到自己的 scope 下，把下面所有 `dsh-ai-toolbox` 换成 `@your-scope/dsh-ai-toolbox`。
 
 ```bash
 cd dsh-ai-toolbox

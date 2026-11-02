@@ -19,6 +19,14 @@
     "icon.svg"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinttt/dsh-ai-toolbox.git"
+  },
+  "homepage": "https://github.com/gavinttt/dsh-ai-toolbox#readme",
+  "bugs": {
+    "url": "https://github.com/gavinttt/dsh-ai-toolbox/issues"
+  },
   "dsh": {
     "bundle": {
       "patch": "./cordis.patch.yml"
